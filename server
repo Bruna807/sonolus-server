@@ -1,0 +1,7 @@
+sonolus-server/
+ ├── index.json
+ └── levels/
+      └── yaminabe/
+           ├── chart.json
+           ├── music.ogg
+           └── background.png   (opcional)
