@@ -1,0 +1,15 @@
+{
+  "title": "Meu Servidor Sonolus",
+  "subtitle": "Charts Project Sekai",
+  "levels": {
+    "items": [
+      {
+        "name": "yaminabe",
+        "version": 1,
+        "title": "YAMINABE!!!!!",
+        "artist": "Vivid BAD SQUAD",
+        "data": "levels/yaminabe/chart.json"
+      }
+    ]
+  }
+}
